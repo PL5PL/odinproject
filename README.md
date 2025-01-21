@@ -1,5 +1,13 @@
 # Odin Project
 
+## 2025-01-21
+
+Today I'll be covering the Flexbox on TOP.
+
+This is about the way to move elements around on a web page.
+
+I went over the "Interneting Is Hard" tutorial : [over here](https://internetingishard.netlify.app/html-and-css/flexbox/index.html)
+
 ## 2025-01-20
 
 I'll use this as a brief log on things I've worked on with the Odin Project.
