@@ -1,5 +1,11 @@
 # Odin Project
 
+## 2025-01-23
+
+Today, I worked on flex froggy. I thought the website game was neat. I'll link it here: [flexbox froggy](https://flexboxfroggy.com).
+
+I'm not sure what the point of learning this is, but I guess it's good for page layout stuff. 
+
 ## 2025-01-21
 
 Today I'll be covering the Flexbox on TOP.
