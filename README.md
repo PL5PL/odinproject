@@ -1,4 +1,18 @@
 # Odin Project
+## 2025-01-26
+
+Got through foundations/flex:
+            04-flex-information
+            05-flex-modal
+
+Still not very confident without looking up the solutions. 04 was okay, but
+I had some unnecessary CSS in it. 05, I was just stumped. The changes make
+sense one by one. I read a bit of JWC's flexbox blog, which has a lot of detail
+about this layout algorithm with CSS.
+
+## 2025-01-24
+
+Working on foundations-alignment today. 
 
 ## 2025-01-23
 
