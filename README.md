@@ -1,4 +1,12 @@
 # Odin Project
+
+## 2025-01-27
+
+Ok, got through the rest of the exercises, but it was a bit of a doozy. I had
+to look at the solutions because the flexbox ideas aren't super fluid to me
+at the moment. I still need to go through more practice. Next up is the project
+for this, which I'll start opening up on this as a GitHub page.
+
 ## 2025-01-26
 
 Got through foundations/flex:
