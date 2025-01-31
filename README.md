@@ -1,4 +1,7 @@
 # Odin Project
+## 2025-01-31
+
+Time to set up the 2nd project. I'll import recipes later.
 
 ## 2025-01-27
 
